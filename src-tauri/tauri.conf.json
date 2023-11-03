@@ -7,7 +7,7 @@
     "distDir": "../ui"
   },
   "package": {
-    "productName": "mybatis-sql-tauri-app",
+    "productName": "Mybatis SQL 格式化工具",
     "version": "1.0.0"
   },
   "tauri": {
@@ -47,6 +47,9 @@
         "timestampUrl": "",
         "webviewInstallMode": {
           "type": "embedBootstrapper"
+        },
+        "wix": {
+          "language": "zh-CN"
         }
       }
     },
